@@ -1,3 +1,10 @@
+<!-- 🌸 Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Hi%20👋%20I'm%20Diana%20Kolářová!&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+---
+
 ## 🌸 Hola!  
 
 Hey there! I’m **Diana Kolářová**, a creative soul blending **UI/UX design 🎨** with **programming 💻**.  
@@ -32,6 +39,19 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkolarova&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkolarova&theme=rose_pine&hide_border=true&background=00000000" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkolarova&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="150" />
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -41,4 +61,19 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
   <a href="https://www.linkedin.com/in/diana-kol%C3%A1%C5%99ov%C3%A1-3910572b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diana%20Kolářová-blue?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
+
+---
+
+## ✨ Fun Facts  
+
+💬 I love mentoring and helping others learn  
+🎧 I enjoy music, design, and discovering new apps  
+🧠 *“Design is not just what it looks like and feels like — design is how it works.”* – Steve Jobs  
+
+---
+
+<!-- 🌈 Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370db,100:ffb6c1&height=120&section=footer" />
 </p>
