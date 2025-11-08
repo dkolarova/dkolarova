@@ -1,6 +1,6 @@
 <!-- 🌸 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Hi%20👋%20I'm%20Diana%20Kolářová!&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
