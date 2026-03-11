@@ -5,7 +5,7 @@
 
 ---
 
-## 🌸 Hola!  
+## Hola!  
 
 Hey there! I’m **Diana Kolářová**, a creative soul blending **UI/UX design 🎨** with **programming 💻**.  
 I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.  
@@ -20,14 +20,14 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
 ## 🛠️ My Toolbox  
 
 ### 💻 Programming  
-🌟 C | C++ | JavaScript | CSS | HTML | 🦋 Flutter  
+ C | C++ | JavaScript | CSS | HTML | SQL  
 
 ### 🎨 Design & Creativity  
 🎯 UI/UX Design | User Interface Design  
 🖌️ Figma | Framer | Adobe Photoshop | Adobe Illustrator | Miro  
 
 ### 🌍 Languages  
-🇬🇧 English | 🇨🇿 Czech | 🇪🇸 Spanish | 🇮🇹 Italian | 🇵🇹 Portuguese  
+🇬🇧 English C1 | 🇨🇿 Czech C1 | 🇪🇸 Spanish C2 | 🇮🇹 Italian B2 | 🇵🇹 Portuguese A2  
 
 ---
 
@@ -62,14 +62,6 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
     <img src="https://img.shields.io/badge/LinkedIn-Diana%20Kolářová-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
-## ✨ Fun Facts  
-
-💬 I love mentoring and helping others learn  
-🎧 I enjoy music, design, and discovering new apps  
-🧠 *“Design is not just what it looks like and feels like — design is how it works.”* – Steve Jobs  
 
 ---
 
