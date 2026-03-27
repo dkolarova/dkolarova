@@ -27,7 +27,7 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
 🖌️ Figma | Framer | Adobe Photoshop | Adobe Illustrator | Miro  
 
 ### 🌍 Languages  
-🇬🇧 English C1 | 🇨🇿 Czech C1 | 🇪🇸 Spanish C2 | 🇮🇹 Italian B2 | 🇵🇹 Portuguese A2  
+🇬🇧 English C1 | 🇨🇿 Czech C1 | 🇪🇸 Spanish C2 | 🇮🇹 Italian B2 | 🇵🇹 Portuguese A1
 
 ---
 
