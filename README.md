@@ -13,7 +13,6 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
 👩‍🏫 At 42, I’ve become a *Tutor*, helping fellow students with their learning journey — sharing knowledge and growing together.  
 🧩 I’m passionate about creating **intuitive, human-centered digital experiences**.  
 🚀 My goal? To become a **mobile app developer** who designs and codes apps that people *love to use*!  
-🦋 I’m also taking an **external course in Flutter Development**, learning how to build **beautiful, cross-platform mobile applications**.  
 
 ---
 
@@ -34,8 +33,6 @@ I’m currently studying at *42 Prague* and an *IT school (since May 2025)*.
 ## 📚 Currently Learning  
 📘 Deepening my understanding of **C and C++**  
 📱 Exploring **mobile app development** (UI + functionality)  
-🦋 Taking an **external Flutter Development course** to build modern, elegant, and responsive apps  
-💡 Bridging the gap between **design thinking** and **software engineering**
 
 ---
 
